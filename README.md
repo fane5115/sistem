@@ -1,1 +1,1 @@
-# sistem
+# Sistem alterare semnale
